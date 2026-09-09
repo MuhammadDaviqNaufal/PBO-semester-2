@@ -1,0 +1,11 @@
+
+PeminjamanBuku
+
++ idTransaksi : String
++ namaPeminjam : String
++ judulBuku : String
++ jumlahHariKeterlambatan : int
++ tarifDendaPerHari : double
+
++ hitungDenda() : double
++ tampilDataPeminjaman() : void
